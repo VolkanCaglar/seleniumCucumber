@@ -1,0 +1,12 @@
+Senaryo 2
+
+1-http://www.saucedemo.com sitesini acin
+
+2-ekranda gorunen usernamelarin bir string diziye atiniz
+
+3-bu username ve passwordlerin hepsinin login olup olmadigini
+login olup olmadigini login olduktan sonra product kelimesiini kontrol ederek dogrulayin
+
+4-diger login kontrolleri icin navigate.back kullaniniz
+
+5-login olamayan user nameleri ve hata bilgisini yazdirin
